@@ -8,4 +8,5 @@ fun main() {
     // We CALL the function and pass an argument
     greetUser("Rajesh")
     greetUser("Alice")
+    greetUser("Bob")
 }
